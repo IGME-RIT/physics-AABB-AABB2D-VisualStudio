@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-aabb2d-mastervs2019\aabb_aabb_2d\main.cpp(580): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-aabb2d-mastervs2019\aabb_aabb_2d\main.cpp(613): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  AABB_AABB_2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-AABB-AABB2D-masterVS2019\AABB_AABB_2D\Debug\AABB_AABB_2D.exe
